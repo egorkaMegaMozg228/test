@@ -1,2 +1,3 @@
 ﻿  test.cpp
+C:\Users\zemts\source\repos\test\test.cpp(7,12): warning C4101: z1: неиспользованная локальная переменная
   test.vcxproj -> C:\Users\zemts\source\repos\test\x64\Debug\test.exe
